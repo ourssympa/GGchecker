@@ -26,7 +26,4 @@ Un outil léger pour surveiller la disponibilité de vos sites web et recevoir d
 - Compte SMTP (Gmail, SendGrid, etc.)  
 
 ### Étapes  
-```bash
-git clone https://github.com/votre-username/website-uptime-monitor.git
-cd website-uptime-monitor
-pip install -r requirements.txt
+flemme je viens le faire apres surement avec docker 
